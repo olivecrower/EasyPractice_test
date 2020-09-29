@@ -9,6 +9,7 @@
 * *php artisan migrate*
 * *php artisan db:seed (if you want some dummy data)*
 * *php artisan key:generate*
+* *npm install*
 * *php artisan serve*
 
 Go to http://localhost:8000 in your browser
