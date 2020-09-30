@@ -15,3 +15,7 @@
 Go to http://localhost:8000 in your browser
 
 #### All done!
+
+Laravel version: **8.x**
+Frontend: **Vue**
+
