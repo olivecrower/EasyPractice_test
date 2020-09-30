@@ -19,3 +19,5 @@ Go to http://localhost:8000 in your browser
 Laravel version: **8.x**
 Frontend: **Vue**
 
+Time spent on assignment: **2-2½ hours**
+
